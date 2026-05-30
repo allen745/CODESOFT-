@@ -84,12 +84,12 @@ Through these projects, I improved my:
 **Allen**  
 Engineering Student – Artificial Intelligence & Data Science || Patent Holder
 
+MADE FOR CODESOFT  https://www.linkedin.com/company/codsoft/posts/?feedView=all
+
 Portfolio: https://allen745.github.io/  
 GitHub: https://github.com/allen745
 
 Linkedin: https://www.linkedin.com/in/allen-christian-708545409/
-
-portfolio https://allen745.github.io
 
 ---
 
