@@ -308,6 +308,16 @@ todo-list/
 
 This project is open source and free to use under the [MIT License](LICENSE).
 
+## 🔗 Connect With Me
+
+MADE BY Allen Stivanson Christian || Patent holder
+
+MADE for CODESOFT :- https://www.linkedin.com/company/codsoft/posts/?feedView=all    
+
+- 💼 LinkedIn: [https://in.linkedin.com/in/your-profile ](https://www.linkedin.com/in/allen-christian-708545409/) 
+- 💻 GitHub: https://github.com/allen745  
+-  portfolio  https://allen745.github.io
+
 ---
 
 > Built with ❤️ using pure Python 3. Stay organised, stay productive! ✅
